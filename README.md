@@ -6,7 +6,7 @@
 ```
 npm install
 ```
-### If you dont have Firebase tools (you'll need to select only storage and hosting, directory for depluyment - "dist"):
+### If you dont have Firebase tools (you'll need to select only storage and hosting, directory for deployment - "dist"):
 ```
 npm install -g firebase-tools
 
